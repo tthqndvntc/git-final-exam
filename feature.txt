@@ -1,0 +1,7 @@
+# New Feature
+
+- Thêm chức năng đăng nhập.
+- Hỗ trợ xác thực 2 lớp.
+- Giao diện thân thiện người dùng.
+- Tích hợp API bảo mật.
+- Có chế độ dark mode.
