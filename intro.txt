@@ -1,4 +1,5 @@
-Giới thiệu cá nhân:
+Hello, this is Nguyễn Trọng Hiếu
+
 Tôi tên là Nguyễn Trọng Hiếu.
 MSSV: 225356.
 Tôi đang học về Git và GitHub.
