@@ -1,0 +1,5 @@
+Dòng 1: Nội dung trên GitHub
+Dòng 2: Học Git cơ bản
+Dòng 3: Thực hành push và pull
+Dòng 4: Update từ local
+Dòng 5: Học tag Git
