@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Nguyễn Trọng Hiếu.
+MSSV: 225356.
+Tôi đang học về Git và GitHub.
+Tôi yêu thích công nghệ và lập trình.
+Tôi muốn rèn luyện kỹ năng quản lý phiên bản.
+
+Sở thích:
+- Đọc sách.
+- Chơi thể thao.
+- Lập trình.
+
+Kỹ năng:
+- Sử dụng Git và GitHub.
+- Lập trình web.
+- Làm việc nhóm.
