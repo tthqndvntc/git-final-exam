@@ -1,4 +1,4 @@
-\# Weekly Study Plan
+qxX\# Weekly Study Plan
 
 
 
@@ -22,5 +22,8 @@
 
 \- Ngày 7: Review toàn bộ và chuẩn bị kiểm tra.
 
+- Thêm mục tiêu dự án
+- Liệt kê các nhiệm vụ chính
+- Xác định timeline ban đầu
 
 
