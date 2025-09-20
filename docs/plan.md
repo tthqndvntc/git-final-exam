@@ -26,4 +26,7 @@ qxX\# Weekly Study Plan
 - Liệt kê các nhiệm vụ chính
 - Xác định timeline ban đầu
 
+- Thêm người phụ trách nhiệm vụ
+- Cập nhật nguồn lực cần thiết
+
 
