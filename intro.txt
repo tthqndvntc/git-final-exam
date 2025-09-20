@@ -1,4 +1,6 @@
-Hello, this is Nguyễn Trọng Hiếu
+Hello, this is Nguyen Van A
+Xin chào, tôi là Nguyen Van A
+Conflict resolved on 20/09/2025
 
 Tôi tên là Nguyễn Trọng Hiếu.
 MSSV: 225356.
